@@ -21,6 +21,8 @@ Individuals interested in booking fishing charter experiences are not consistent
 This project is guided by a structured UX research plan outlining objectives, methodology, and data analysis.
 [View Full Research Plan](02-research-plan/ux-research-plan.md)
 
+---
+
 ## Competitive Analysis
 This section evaluates how competing fishing charter services communicate value, build trust, and support booking decisions. 
 [View Competitive Analysis](03-competitive-research/competitive-analysis.md)
