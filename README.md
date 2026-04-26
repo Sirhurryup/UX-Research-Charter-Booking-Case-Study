@@ -74,7 +74,8 @@ This project uses a grounded-theory-informed qualitative research approach:
 ## Repository Structure
 
 - `01-project-overview/` → Project framing  
-- `02-research-plan/` → Full research design  
+- `02-research-plan/` → Full research design
+- `03-competitive-research/` → Full research design  
 - `04-user-research/` → Interview guide & recruitment  
 
 ---
