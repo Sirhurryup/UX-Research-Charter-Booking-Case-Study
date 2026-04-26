@@ -17,6 +17,9 @@ Individuals interested in booking fishing charter experiences are not consistent
 
 ---
 
+## Current Experience Snapshot
+![Homepage](assets/screenshots/homepage.png)
+
 ## Research Approach 
 This project uses a grounded-theory-informed qualitative research approach: 
 - Semi-structured interviews
@@ -60,3 +63,8 @@ By understanding how people actually make decisions, this research aims to infor
 - Analyze patterns using grounded theory
 - Identify key friction points and opportunity areas
 - Translate findings into design strategy
+
+---
+## Key Hyopthesis 
+I suspect that users are not primarily seeking fishing itself, but a broader experience (e.g., social connection, novelty, or relazation), and that current offerings may not clearly communicate this value, leading to hesitation in booking a fishing charter. 
+
