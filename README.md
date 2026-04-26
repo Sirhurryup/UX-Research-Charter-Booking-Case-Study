@@ -60,7 +60,7 @@ This project uses a grounded-theory-informed qualitative research approach:
 - Interative coding and thematic analysis
 - Constant comparision across participants
 ---
-## What I'M Investigating
+## What I Am Investigating
 - How users discover charter services
 - How they evaluate and compare options
 - What builds or breeaks trust
