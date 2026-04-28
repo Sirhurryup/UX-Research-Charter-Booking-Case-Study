@@ -54,6 +54,7 @@ A qualitative approach enables in-depth exploration of user experiences and deci
 ## 6. Participants & Sampling Strategy
 
 ### Sample Size
+- 5-8 participants 
 - 14–20 participants  
 - This range supports thematic saturation while maintaining depth of insight  
 
