@@ -28,6 +28,7 @@ The goal is to identify patterns, strengths and gaps acorss competitors that inf
 
 ## Competitors Selected 
 1. Hubbard's Marina
+
 https://www.hubbardsmarina.com/fishing-charters/
 
 ## Initial Observations 
