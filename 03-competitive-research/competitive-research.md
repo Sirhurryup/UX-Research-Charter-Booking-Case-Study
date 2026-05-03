@@ -63,7 +63,8 @@ However, there is an opportunity to balance detailed information with more engag
 
 ---
 
-2. Rock Bottom Sport Fishing 
+2. Rock Bottom Sport Fishing
+
 https://www.hubbardsmarina.com/fishing-charters/
 
 #### Discovery Approach 
