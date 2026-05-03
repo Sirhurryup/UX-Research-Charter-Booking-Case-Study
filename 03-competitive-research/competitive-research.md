@@ -92,10 +92,44 @@ Identified through targeted search queries related to fishing charters in St. Pe
 #### Key Takeways 
 Rock bottom Sport Fishing performs well in structuring and presenting its offerings, particularly through clear segmentation and detailed pricing. The ability to quickly understand different charter types reduces cognitive load and supports decision-making.
 
-Howevr, outdated content and weaker visual presentation may undermine trust and emotional engagement. There is an opportunity to strengthen the experience by improving visual hierarchy, maintaining up-to-date, content, and enhancing storytelling around each charter offering. 
+However, outdated content and weaker visual presentation may undermine trust and emotional engagement. There is an opportunity to strengthen the experience by improving visual hierarchy, maintaining up-to-date, content, and enhancing storytelling around each charter offering. 
 
 ---
 
+3. Native Sport Fishing
+
+https://www.nativesportfishing.com/
+
+#### Discovery Approach 
+Identified through targeted search queries for fishing charters n the Tampa Bay area, focusing on services with clear booking flowws and structured presentation of offerings. 
+
+---
+
+#### Strengths
+-  Immediate visibility of the captain's name and contact information, reinforcing a personal and trustworthy experience
+-  Prominent call-to-action (phone number and "Book Now" button) supports quick engagement
+-  Charter options are clearly presented in card format, including pricing, duration, and engaging imagery
+-  Detailed breakdowns of each experience (what's included, what to bring, payment details, cancellation policy) reduce uncertainty
+-  Strong trust signals, including, testimonials with review counts and the ability for users to leave reviews
+-  Location-specific pages (St. Pete, Clearwater, Tampa Bay) help users find relevant starting points
+-  "Where to Launch" section includes maps and written instructions, improving clarity and logistical confidence
+-  Footer is readable and provides clear navigation and booking options
+-  Contact form is simple, clean, and easy to complete 
+
+---
+
+#### Weaknesses 
+- Fishing reports page contains broken links and misalignment, which may reduce credibility and signal lack of maintenance
+- Gallery lacks structure and relies heavily on sliding transitions, which may feel overwhelming and reduce clarity
+- Overuse of animations may distract from key information and slow down user comprehension
+---
+
+#### Key Takeways 
+Native Sport Fishing performs well in combing clarity, trust, and usability. The structured presentation of charter options, detailed expectations, and strong trust signals support confident decision-making and reduce user uncertainty. 
+
+However, inconsistencies in content quality (e.g., broken links) and less structured visual elements may weaken overall credibility. Maintaining consistency across all pages and improving content organization would strengthem the overall experience.
+
+---
 ## Evaluation Criteria 
 Each competitor will be evaluated based on: 
 - Value Proposition Clarity
@@ -105,10 +139,6 @@ Each competitor will be evaluated based on:
 - -Booking Flow Simplicity
 ---
 
-## Initial Observations 
-(To be completed after reviewing competitors) 
-
----
 
 ## Opportunity Areas
 (To be completed after identifying patterns)
