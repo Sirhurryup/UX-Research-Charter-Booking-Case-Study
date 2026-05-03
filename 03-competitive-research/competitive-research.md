@@ -19,6 +19,15 @@ The goal is to identify patterns, strengths and gaps acorss competitors that inf
 - What differentiates one service from another?
 ---
 
+## Evaluation Criteria 
+Each competitor will be evaluated based on: 
+- Value Proposition Clarity
+- Experience Communication
+- Trust & Credibility
+- Pricing Transparency
+- -Booking Flow Simplicity
+---
+
 ## Search Criteria 
 - "St. Pete fishing charters"
 - "Florida fishing charters"
@@ -129,14 +138,6 @@ Native Sport Fishing performs well in combing clarity, trust, and usability. The
 
 However, inconsistencies in content quality (e.g., broken links) and less structured visual elements may weaken overall credibility. Maintaining consistency across all pages and improving content organization would strengthem the overall experience.
 
----
-## Evaluation Criteria 
-Each competitor will be evaluated based on: 
-- Value Proposition Clarity
-- Experience Communication
-- Trust & Credibility
-- Pricing Transparency
-- -Booking Flow Simplicity
 ---
 
 
