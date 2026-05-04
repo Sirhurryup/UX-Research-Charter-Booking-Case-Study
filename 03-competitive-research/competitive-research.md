@@ -169,4 +169,21 @@ Based on patterns observed across competitors, several key opportunity areas eme
   The absence of online booking tools, availability calendars, or real-time updates limits user ability to take immediate action. Adding these features would reduce fricion and support conversion.
 
 - **Increase pricing transparency and contextual detail**
-  Pricing is presented without sufficient detail regarding what is included, where trips take place, or how experiences differ. More contextualized pricing would help users assess value and make informed decisions. 
+  Pricing is presented without sufficient detail regarding what is included, where trips take place, or how experiences differ. More contextualized pricing would help users assess value and make informed decisions.
+
+--- 
+
+## Priority Research Focus 
+
+Based on the identified opportuity areas, the primary focus for user research will be: 
+
+### Enhancing Service Descriptions and Value Communication 
+
+Currrent findings suggest that the charter service does not clearly communicate what makes the experience unique or valuable. This lack of of clarity may contribute to user hesitation and difficulty evaluating whether the experience is worth booking. 
+
+Improving how the experience is described-including what is included, what users can expect, and what differentiaties the offering-may significantly impact user understanding, trust, and decision-making. 
+
+This focus is prioritized over feature-based improvements (e.g., booking systems) to ensure that any future design solutions are grounded in a clear and meaningful represenation of the user experience. 
+
+---
+
