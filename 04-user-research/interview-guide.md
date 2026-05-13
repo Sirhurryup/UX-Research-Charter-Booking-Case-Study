@@ -41,6 +41,8 @@
 - Prefer to call
 - Prefer in-person discussion
 
+---
+
 ## Core Interview Questions (Value * Experience Understanding) 
 
 1. Can you walk me through the last time you considered or booked a fishing charter? 
