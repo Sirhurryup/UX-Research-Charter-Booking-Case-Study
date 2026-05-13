@@ -1,3 +1,46 @@
+## Participant Profile 
+1. Age Range
+- 18–29
+- 30–44
+- 45–59
+- 60+
+
+2. Occupation
+(Open response)
+
+3. Have you ever booked a fishing charter?
+- Yes, multiple times
+- Yes, once
+- Considered booking but did not
+- Never booked
+
+4. Primary Reason for Interest
+- Relaxation
+- Family outing
+- Group bonding
+- Tourism
+- Bucket list experience
+- Serious fishing
+- Other: ______
+
+5. Group Type
+- Solo
+- Couple
+- Family
+- Friends
+- Corporate / Team outing
+
+6. How far did you travel for the experience?
+- Local resident
+- Day trip
+- Vacation traveler
+
+7. Comfort with Online Booking
+- Very comfortable
+- Somewhat comfortable
+- Prefer to call
+- Prefer in-person discussion
+
 ## Core Interview Questions (Value * Experience Understanding) 
 
 1. Can you walk me through the last time you considered or booked a fishing charter? 
