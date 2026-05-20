@@ -1,62 +1,65 @@
 # Design Recommendations
 
-## Recommendation 1: Clarify the Value Proposition
+## Recommendation 1: Sell the Experience, Not Just the Charter
 
-Clearly communicate what makes the charter unique and why the experience is worth booking.
+The website should position the charter as a memorable outdoor experience that helps families and friends relax, reconnect, and create lasting memories.
 
 ### Proposed Improvements
-- Rewrite the hero section to emphasize memorable, guided experiences
-- Highlight family-friendly and group-oriented messaging
-- Showcase what differentiates the charter from competitors
+- Rewrite the hero section to emphasize family bonding, adventure, and relaxation
+- Highlight the emotional benefits of the experience
+- Use imagery that shows people enjoying the full experience, not only holding fish
 
 ---
 
-## Recommendation 2: Introduce Structured Package Cards
+## Recommendation 2: Clarify What Each Package Includes
 
-Present each charter option using consistent cards that include:
-- Price
-- Duration
-- Ideal audience
-- What is included
-- Primary call to action
+Users need to quickly understand what they are buying and how each option differs.
 
----
-
-## Recommendation 3: Build Trust Through Human-Centered Content
-
-Increase confidence by providing:
-- Captain biography and experience
-- Customer testimonials
-- Review highlights
-- Photos of real trips and participants
+### Proposed Improvements
+- Create package cards with price, duration, and ideal audience
+- Explain what is included and what users should bring
+- Identify which package is best for families, beginners, and experienced anglers
 
 ---
 
-## Recommendation 4: Support Multiple Booking Preferences
+## Recommendation 3: Provide Rich Information About the Captain
 
-Allow users to:
-- Book online immediately
-- Call with questions
-- Text for quick clarification
+Users want to know who will be guiding the experience and whether they can trust that person.
 
----
-
-## Recommendation 5: Answer Key Questions Up Front
-
-Provide clear information about:
-- What to bring
-- What is included
-- Fish species and trip locations
-- Cancellation policies
-- Seasonal expectations
+### Proposed Improvements
+- Add a detailed captain biography
+- Highlight years of experience and local expertise
+- Include photos and a personal introduction
 
 ---
 
-## Recommendation 6: Sell the Experience, Not Just the Service
+## Recommendation 4: Make Reviews and Testimonials Highly Visible
 
-Use imagery and messaging that emphasize:
-- Family bonding
-- Relaxation
-- Adventure
-- Wildlife and scenery
-- Lasting memories
+Users rely heavily on previous customer experiences when evaluating trust and value.
+
+### Proposed Improvements
+- Display review summaries near the hero section
+- Add testimonials throughout key decision points
+- Showcase the total number of reviews
+
+---
+
+## Recommendation 5: Support Multiple Ways to Ask Questions and Book
+
+Users want a frictionless way to either book immediately or contact the business first.
+
+### Proposed Improvements
+- Include Book Now, Call, and Text options
+- Place contact methods throughout the site
+- Reduce uncertainty by making communication effortless
+
+---
+
+## Recommendation 6: Answer Common Questions Before Users Need to Ask
+
+Users should not have to search for essential information.
+
+### Proposed Improvements
+- Add sections for what to bring, fish species, trip locations, and cancellation policies
+- Include FAQs
+- Provide clear launch instructions and meeting details
