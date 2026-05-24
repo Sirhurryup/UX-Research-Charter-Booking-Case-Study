@@ -27,7 +27,7 @@ To synthesize the interview data, I organized the affinity mapping process into 
 
 1. Motivations
 2. Decision Drivers
-3. Trust Signals
+3. Confidence Builders
 4. Information Needed
 5. Barriers and Uncertainty
 6. Booking Preferences
