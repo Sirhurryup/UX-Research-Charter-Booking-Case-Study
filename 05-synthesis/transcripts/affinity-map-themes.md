@@ -3,7 +3,7 @@
 ## Theme 1: Clarity Builds Confidence
 Users need clear information about what is included, trip duration, what to bring, and how packages differ before they feel comfortable booking.
 
-## Theme 2: Trust Is Personal
+## Theme 2: Confidence Builders
 Reviews, testimonials, captain expertise, and personal contact help users feel reassured and confident.
 
 ## Theme 3: Value Extends Beyond Price
