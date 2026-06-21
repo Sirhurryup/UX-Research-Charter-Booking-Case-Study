@@ -71,13 +71,13 @@ This project uses a grounded-theory-informed qualitative research approach:
 ## Project Status 
 ✅ Research Plan Complete  
 ✅ User Interviews Complete   
-✅ Synthesis & Insights Complete
-✅ Content Strategy Complete
-✅ Low-Fidelity Wireframes Complete
-✅ Homepage Design Exploration Complete
-🔲 Mid-Fidelity Prototype 
-🔲 User Testing
-🔲 Final Case Study Presentation
+✅ Synthesis & Insights Complete  
+✅ Content Strategy Complete  
+✅ Low-Fidelity Wireframes Complete  
+✅ Homepage Design Exploration Complete  
+🔲 Mid-Fidelity Prototype  
+🔲 User Testing  
+🔲 Final Case Study Presentation  
 
 ---
 
