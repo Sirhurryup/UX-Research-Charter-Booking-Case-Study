@@ -1,7 +1,7 @@
 # UX Research Case Study: Fishing Charter Booking Experience 
 
 ## Overview 
-This project investigates why individuals interested in fishing charter expereinces do not consistently convert from initial interest to confirmed bookings. The goal is to understand how users disvover, evaluate, and trust charter services and where breakdowns occur in that decision-making process.
+This project investigates why individuals interested in fishing charter expereinces do not consistently convert from initial interest to confirmed bookings. The goal is to understand how users discover, evaluate, and trust charter services and where breakdowns occur in that decision-making process.
 
 ---
 
@@ -57,23 +57,27 @@ This section evaluates how competing fishing charter services communicate value,
 This project uses a grounded-theory-informed qualitative research approach: 
 - Semi-structured interviews
 - Behavioral participant segmentation
-- Interative coding and thematic analysis
-- Constant comparision across participants
+- Iterative coding and thematic analysis
+- Constant comparison across participants
 ---
 ## What I Am Investigating
 - How users discover charter services
 - How they evaluate and compare options
-- What builds or breeaks trust
+- What builds or breaks trust
 - Where hesitation and drop-off occur
 - What defines a valuable experience 
 ---
 
 ## Project Status 
 ✅ Research Plan Complete  
-✅ User Interviews   
-✅ Synthesis & Insights  
-✅ Design Recommendations  
-🔲 Wireframes & Testing (Next Phase)
+✅ User Interviews Complete   
+✅ Synthesis & Insights Complete
+✅ Content Strategy Complete
+✅ Low-Fidelity Wireframes Complete
+✅ Homepage Design Exploration Complete
+🔲 Mid-Fidelity Prototype 
+🔲 User Testing
+🔲 Final Case Study Presentation
 
 ---
 
@@ -99,6 +103,21 @@ By understanding how people actually make decisions, this research aims to infor
 - Translate findings into design strategy
 
 ---
-## Key Hyopthesis 
-I suspect that users are not primarily seeking fishing itself, but a broader experience (e.g., social connection, novelty, or relazation), and that current offerings may not clearly communicate this value, leading to hesitation in booking a fishing charter. 
+## Key Hypothesis 
+I suspect that users are not primarily seeking fishing itself, but a broader experience (e.g., social connection, novelty, or relaxation), and that current offerings may not clearly communicate this value, leading to hesitation in booking a fishing charter. 
+
+## Homepage Design Exploration 
+
+Three homepage concepts were created to explore differnt user decision paths: 
+
+### Information First 
+prioritizes trust, clarity, captain credibility, safety information, and FAQs. 
+
+### Emotion First 
+Prioritizes guest memories, storytelling, social proof, and the emotional value of the charter experience. 
+
+### Decision First 
+Prioritizes trip comparison, availability, and faster path toward booking. 
+
+These concepts helped compare whether users need trust-building, emotional connection, or decision support before reserving a charter. 
 
