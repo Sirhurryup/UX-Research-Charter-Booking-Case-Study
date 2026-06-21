@@ -68,16 +68,25 @@ This project uses a grounded-theory-informed qualitative research approach:
 - What defines a valuable experience 
 ---
 
-## Project Status 
-✅ Research Plan Complete  
-✅ User Interviews Complete   
-✅ Synthesis & Insights Complete  
-✅ Content Strategy Complete  
-✅ Low-Fidelity Wireframes Complete  
-✅ Homepage Design Exploration Complete  
-🔲 Mid-Fidelity Prototype  
-🔲 User Testing  
-🔲 Final Case Study Presentation  
+## Current Phase 
+
+Design Exploration 
+
+Completed: 
+
+- Research
+- Synthesis
+- Content Strategy
+- Homepage Concept Exploration
+
+In Progress: 
+
+- Mid-Fidelity Prototyping
+
+Upcoming: 
+
+- User Testing
+- Final Case Study
 
 ---
 
@@ -96,13 +105,6 @@ By understanding how people actually make decisions, this research aims to infor
 
 ---
 
-## Next Steps
-- Conduct interviews
-- Analyze patterns using grounded theory
-- Identify key friction points and opportunity areas
-- Translate findings into design strategy
-
----
 ## Key Hypothesis 
 I suspect that users are not primarily seeking fishing itself, but a broader experience (e.g., social connection, novelty, or relaxation), and that current offerings may not clearly communicate this value, leading to hesitation in booking a fishing charter. 
 
